@@ -16,6 +16,8 @@ A production-grade, full-stack Stellar Testnet dApp utilizing decentralized WebA
 
 ---
 
+- **Smart Contract Source:** `./contracts/poll/src/lib.rs`
+
 ## 🛠️ Deep Architectural Breakdown
 
 1. **Multi-Wallet Orchestration Kit:**
