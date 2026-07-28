@@ -37,6 +37,9 @@ yarn-error.log*
 /target
 contracts/poll/target
 
+# Soroban test snapshot artifacts
+**/test_snapshots/
+
 # vercel
 .vercel
 
