@@ -1,5 +1,5 @@
 #![no_std]
-use soroban_sdk::{contract, contractimpl, contractevent, symbol_short, Address, Env, Symbol};
+use soroban_sdk::{contract, contractevent, contractimpl, symbol_short, Address, Env, Symbol};
 
 const YES_KEY: Symbol = symbol_short!("YES");
 const NO_KEY: Symbol = symbol_short!("NO");

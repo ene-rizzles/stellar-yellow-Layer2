@@ -35,5 +35,11 @@ jobs:
           cache: true
           cache-on-failure: true
 
+      - name: Run cargo fmt (formatting check)
+        run: cargo fmt --check
+
+      - name: Run cargo clippy (lint check)
+        run: cargo clippy -- -D warnings
+
       - name: Run cargo test
         run: cargo test --verbose
