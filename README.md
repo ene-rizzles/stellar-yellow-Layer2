@@ -1,5 +1,7 @@
 # 🗳️ Soroban Real-Time Live Poll (Yellow Belt)
 
+[![Soroban Contract CI](https://github.com/ene-rizzles/stellar-yellow-Layer2/actions/workflows/contracts-ci.yml/badge.svg)](https://github.com/ene-rizzles/stellar-yellow-Layer2/actions/workflows/contracts-ci.yml)
+
 A production-grade, full-stack Stellar Testnet dApp utilizing decentralized WebAssembly (WASM) smart contracts, multi-wallet coordination wrappers, and real-time ledger synchronization layers. Built for the **Level 2 – Yellow Belt Challenge** in the Stellar Journey to Mastery Program.
 
 ---
